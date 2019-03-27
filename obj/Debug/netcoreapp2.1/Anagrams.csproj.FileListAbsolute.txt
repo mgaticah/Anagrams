@@ -1,0 +1,14 @@
+C:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\Anagrams.deps.json
+C:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\Anagrams.runtimeconfig.json
+C:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\Anagrams.runtimeconfig.dev.json
+c:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\Anagrams.dll
+c:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\Anagrams.pdb
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.csprojAssemblyReference.cache
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.csproj.CoreCompileInputs.cache
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.AssemblyInfoInputs.cache
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.AssemblyInfo.cs
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.dll
+c:\csharpProjects\hackerrank\Anagrams\obj\Debug\netcoreapp2.1\Anagrams.pdb
+c:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\csharpProjects\hackerrank\Anagrams\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
